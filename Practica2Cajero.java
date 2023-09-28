@@ -44,6 +44,7 @@ public class Practica2Cajero {
                     
                 }
             default: 
+                System.out.println("Opcion no valida");
                 
                 
                 scanner.close();
